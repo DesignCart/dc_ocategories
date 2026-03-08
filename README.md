@@ -107,7 +107,7 @@
 <p>The module is available for free and can be downloaded from:</p>
 <ul>
 <li>
-<p>the official <strong>Design Cart website</strong></p>
+<p>the official <a href="https://www.designcart.pl/laboratorium/303-prezentacja-glownych-kategorii-na-stronie-startowej-prestashop-darmowy-modul-dc-pcategories.html"><strong>Design Cart website</strong></a></p>
 </li>
 <li>
 <p>the <strong>GitHub repository</strong></p>
